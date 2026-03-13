@@ -17,7 +17,7 @@ const projects = [
     client: 'PW',
     platform: 'YouTube',
     category: 'YouTube',
-    image: 'https://tmpfiles.org/dl/28738401/whatsappimage2026-03-13at16.18.39.jpeg',
+    image: 'https://i.ibb.co/qFWJmsRg/Whats-App-Image-2026-03-13-at-16-18-39.jpg',
     description: 'Creating viral YouTube content that reached over 1M organic views.'
   },
   {
@@ -35,7 +35,7 @@ const projects = [
     client: 'Unacademy',
     platform: 'YouTube',
     category: 'YouTube',
-    image: 'https://tmpfiles.org/dl/28738775/whatsappimage2026-03-13at16.21.31.jpeg',
+    image: 'https://i.ibb.co/bM5ZT4gw/Whats-App-Image-2026-03-13-at-16-21-31.jpg',
     description: 'Short-form clips curated from client classes and events to increase visibility and drive audience engagement.'
   },
   {
