@@ -71,7 +71,7 @@ const projects = [
     client: 'AfterHours with All About Eve',
     platform: 'Instagram',
     category: 'Instagram',
-    image: '/src/assets/images/afterhours_whatsapp_raw.jpg',
+    image: '/src/assets/images/afterhours_whatsapp_raw_v2.jpg',
     description: 'Led content strategy and Instagram growth for a podcast.'
   },
   {
@@ -80,7 +80,7 @@ const projects = [
     client: 'PW MBA Wallah',
     platform: 'Instagram',
     category: 'Instagram',
-    image: '/src/assets/images/pw_mba_whatsapp_raw_v3.jpg',
+    image: '/src/assets/images/pw_mba_whatsapp_raw_v4.jpg',
     description: 'Engaging educational infographics, mock results, and exam tips tailored for CAT candidates.'
   },
   {
@@ -89,7 +89,7 @@ const projects = [
     client: 'Personal Branding',
     platform: 'Instagram',
     category: 'Instagram',
-    image: '/src/assets/images/samridhi_sharma_whatsapp_raw.jpg',
+    image: '/src/assets/images/samridhi_sharma_whatsapp_raw_v2.jpg',
     description: 'Personalized educational content, lifestyle reels, and behind-the-scenes vlogs of a high-reach educator.'
   }
 ];
