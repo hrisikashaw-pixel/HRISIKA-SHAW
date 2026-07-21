@@ -1,10 +1,6 @@
 import { motion, AnimatePresence } from 'motion/react';
 import { useState } from 'react';
 
-import afterhoursImg from '../assets/images/afterhours_whatsapp_raw_v2.jpg';
-import pwMbaImg from '../assets/images/pw_mba_whatsapp_raw_v4.jpg';
-import samridhiImg from '../assets/images/samridhi_sharma_whatsapp_raw_v2.jpg';
-
 const projects = [
   {
     id: 1,
@@ -75,7 +71,7 @@ const projects = [
     client: 'AfterHours with All About Eve',
     platform: 'Instagram',
     category: 'Instagram',
-    image: afterhoursImg,
+    image: 'https://i.ibb.co/W4KCw5nF/Whats-App-Image-2026-07-21-at-17-20-10.jpg',
     description: 'Led content strategy and Instagram growth for a podcast.'
   },
   {
@@ -84,7 +80,7 @@ const projects = [
     client: 'PW MBA Wallah',
     platform: 'Instagram',
     category: 'Instagram',
-    image: pwMbaImg,
+    image: 'https://i.ibb.co/6R23s3Hs/Whats-App-Image-2026-07-21-at-18-03-23.jpg',
     description: 'Engaging educational infographics, mock results, and exam tips tailored for CAT candidates.'
   },
   {
@@ -93,7 +89,7 @@ const projects = [
     client: 'Personal Branding',
     platform: 'Instagram',
     category: 'Instagram',
-    image: samridhiImg,
+    image: 'https://i.ibb.co/4nz7PBCv/Whats-App-Image-2026-07-21-at-17-35-16.jpg',
     description: 'Personalized educational content, lifestyle reels, and behind-the-scenes vlogs of a high-reach educator.'
   }
 ];
