@@ -64,6 +64,33 @@ const projects = [
     category: 'YouTube',
     image: 'https://i.ibb.co/qFDZSydj/Whats-App-Image-2026-03-13-at-16-31-25.jpg',
     description: 'Converted long-form podcast interviews with notable guests into viral-ready clips.'
+  },
+  {
+    id: 10,
+    title: 'Unfiltered Conversations',
+    client: 'AfterHours with All About Eve',
+    platform: 'Instagram',
+    category: 'Instagram',
+    image: '/src/assets/images/afterhours_whatsapp_raw.jpg',
+    description: 'Led content strategy and Instagram growth for a podcast.'
+  },
+  {
+    id: 11,
+    title: 'Exam Prep & Strategy',
+    client: 'PW MBA Wallah',
+    platform: 'Instagram',
+    category: 'Instagram',
+    image: '/src/assets/images/pw_mba_whatsapp_raw_v3.jpg',
+    description: 'Engaging educational infographics, mock results, and exam tips tailored for CAT candidates.'
+  },
+  {
+    id: 12,
+    title: 'Educator Insights & Vlogs',
+    client: 'Personal Branding',
+    platform: 'Instagram',
+    category: 'Instagram',
+    image: '/src/assets/images/samridhi_sharma_whatsapp_raw.jpg',
+    description: 'Personalized educational content, lifestyle reels, and behind-the-scenes vlogs of a high-reach educator.'
   }
 ];
 
